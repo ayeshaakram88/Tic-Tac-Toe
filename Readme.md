@@ -10,7 +10,17 @@ A simple 2-player **Tic-Tac-Toe** game built using JavaFX. This desktop GUI appl
 - Draw detection when no winning move exists
 - Restart button to reset the board
 - Styled UI using CSS and JavaFX elements
-- 
+
+## Screenshots
+
+![Basic Game UI](https://github.com/user-attachments/assets/3e042042-9c0a-4efc-b095-ef680181b858)
+![Player O wins](https://github.com/user-attachments/assets/59afe37a-67d9-475b-8254-d9c5e3b4db8d)
+![Player X Wins](https://github.com/user-attachments/assets/05b83566-76e8-400a-817c-adc6526fd0fc)
+![Draw](https://github.com/user-attachments/assets/b165b5e4-9b41-4e50-a64e-436fc15094fd)
+
+
+
+
 ### Prerequisites
 
 - Java 8 or later
