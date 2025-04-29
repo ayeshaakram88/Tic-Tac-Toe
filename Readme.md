@@ -20,5 +20,5 @@ A simple 2-player **Tic-Tac-Toe** game built using JavaFX. This desktop GUI appl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Tic Tac Toe.git
+   git clone https://github.com/ayeshaakram88/Tic Tac Toe.git
    cd tictactoe-javafx
